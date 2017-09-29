@@ -2,3 +2,5 @@
 #wall div{
   display: none;
 }
+
+#wall div[id*="tag"]
