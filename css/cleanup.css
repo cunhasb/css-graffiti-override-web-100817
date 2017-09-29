@@ -1,5 +1,5 @@
 /* write your override styles here */
-#wall div{
+/*#wall div{
   display: none;
 }
 
@@ -8,4 +8,9 @@
 }
 
 .parent div[id="tag-4"]
+}
+*/
+
+#wall .tag-1{
+  dispaly:none;
 }
