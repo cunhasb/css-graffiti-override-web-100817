@@ -7,6 +7,5 @@
   display: none;
 }
 
-.parent #wall #tag-4{
-  display: none;
+div.parent div[id="tag-4"]
 }
