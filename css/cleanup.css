@@ -10,5 +10,6 @@
 .parent div[id="tag-4"]
 }
 */
-
-
+#wall .tag-1{
+  dispaly:none;
+}
